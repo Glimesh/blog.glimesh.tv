@@ -39,6 +39,8 @@ summaryLength = 50
   # Site author
   author = "Luke Strickland"
 
+  plausible_site_domain = "blog.glimesh.tv"
+
   # Description/subtitle for homepage (can be Markdown)
   # description = "A simple Hugo theme based on the Bootstrap v4 blog example."
 
