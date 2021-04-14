@@ -24,7 +24,7 @@
 
     {{ "<!-- minified Font Awesome for SVG icons -->" | safeHTML }}
     {{ $fontawesome := resources.Get "js/fontawesome.min.js" | resources.Fingerprint }}
-    <script defer src="{{ $fontawesome.Permalink }}" integrity="{{ $fontawesome.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script defer src="{{ $fontawesome.Permalink }}" {{ if not .Site.Params.disable_sri }} integrity="{{ $fontawesome.Data.Integrity }}" crossorigin="anonymous" {{ end }}></script>
 
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
     {{ with .OutputFormats.Get "rss" -}}

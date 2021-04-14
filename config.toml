@@ -41,8 +41,10 @@ summaryLength = 50
 
   plausible_site_domain = "blog.glimesh.tv"
 
+  disable_sri = true
+
   # Description/subtitle for homepage (can be Markdown)
-  # description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "Glimesh is a live streaming platform focused on discoverability & community. Our mission is to build a platform where everyone can have the chance to flourish."
 
   # Show header (default: true)
   #header_visible = true
