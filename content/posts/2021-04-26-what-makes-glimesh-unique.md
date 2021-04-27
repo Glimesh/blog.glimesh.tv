@@ -10,7 +10,7 @@ author: "RibenaBerri"
 
 Here at Glimesh a question we often get asked is ‘Why Glimesh? What makes Glimesh different to the myriad of other platforms out there for streaming?’ Here we will unpack just what it means to choose Glimesh, and hopefully help you understand more about who and what we are.
 
-First, and most importantly, , we are not aiming to be the next big streaming platform or giant killer. We are here to be us, Glimesh, and be here for those who want to be here. In doing so we aim to make the best platform for our users.
+First, and most importantly, we are not aiming to be the next big streaming platform or giant killer. We are here to be us, Glimesh, and be here for those who want to be here. In doing so we aim to make the best platform for our users.
 
 ![](https://lh3.googleusercontent.com/bo7-Ad6F3Mt477dCW1xVilQWHKuCaSAqEIAibpSqiuadqC2RK5N8ImKHzRud44ZTRSfLygAXTvTnejH9A3KBin9hQtjdqRBLpMXNP_89RUehsLyrxNZgFgpzSAsRi5bLOYpMtZj8)
 
@@ -56,13 +56,13 @@ Glimesh is built and developed by volunteers directly from our community. These 
 
 No-one at Glimesh is taking a wage. Right now our focus is on making sure the platform is everything it can be, and without volunteers dedicating their time and knowledge this would not be possible.
 
-If you think you might want to offer up your help as a volunteer, you can check out our [how-to-contribute](https://discord.gg/7rKSG3CXzK)  channel over in Discord.
+If you think you might want to offer up your help as a volunteer, you can check out our [#how-to-contribute](https://discord.gg/7rKSG3CXzK)  channel over in Discord.
 
 **24/7 Support**
 
 Whether it’s a question, a general chat, feedback, or a report our team is on hand around the globe. We have volunteers from a variety of time zones, and which speak a variety of languages, meaning you can access help whenever you need it.
 
-You can access help via the discord: [https://www.discord.gg/glimesh](https://www.discord.gg/glimesh) , support site [https://www.support.glimesh.tv](https://www.support.glimesh.tv) , or by reaching out to the Glimesh Community Team via support@glimesh.tv
+You can access help via the discord: [https://discord.gg/glimesh](https://discord.gg/glimesh) , support site [https://support.glimesh.tv](https://support.glimesh.tv) , or by reaching out to the Glimesh Community Team via support@glimesh.tv
 
 ![](https://lh6.googleusercontent.com/pdstoav2IpVl-tyi8r3hw5VHeNSyqZ3Jzz0JQzUhIgiyDEUCJtnQBWMWOXjGYzxFZw2f-x3g1biCfUdqJ57BSNkJPwNYewZrOFDXCRmeIrQDbUWg0GENixqGgIF12wLpjMUQKZe1)
 
