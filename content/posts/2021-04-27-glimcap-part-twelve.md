@@ -1,6 +1,6 @@
 ---
 title: "The Glimcap Part 12"
-date: 2021-04-22T08:00:00-04:00
+date: 2021-04-28T08:00:00-04:00
 author: "Heiwa and RibenaBerri"
 ---
 
