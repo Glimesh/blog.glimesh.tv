@@ -4,8 +4,6 @@ date: 2021-05-12T08:00:00-04:00
 author: "Heiwa and RibenaBerri"
 ---
 
-# Glimcap 14
-
 Welcome again to our 14th Glimcap! This week we are just covering some of the basic metrics and giving a small update for some of the Phase 2 features. There aren’t a lot of new updates this week but we are showing some renewed growth on some of the socials.
 
 <!--more-->
