@@ -8,6 +8,9 @@ Hello everyone and welcome to Glimesh’s first regular board meeting. This meet
 
 Called to order: July 6th, 2021 / 7:00 PM EDT
 
+### YouTube Recording
+You can find a YouTube recording of this video here: [https://www.youtube.com/watch?v=FG5WDwOh8go](https://www.youtube.com/watch?v=FG5WDwOh8go)
+
 ### Company Attendance
 
 Luke Strickland
