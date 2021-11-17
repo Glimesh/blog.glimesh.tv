@@ -81,24 +81,21 @@ Here is how the breakdown now works:
 
 Glimesh Subscription: 
 
--   Platform Cut: 
+-   Platform Cut: $2 
     
-
--   Payment Processing: 
+    -   Payment Processing: $2
     
--   Payout Processing: 
+    -   Payout Processing: $0.45
     
--   Chargeback Protection: 
+    -   Chargeback Protection: $0.02
     
--   Servers & Bandwidth: 
+    -   Servers & Bandwidth: $1.00
     
--   Glimesh: 
+    -   Glimesh: $0.33
     
-
--   Streamer Cut: 
+-   Streamer Cut: $3.00
     
-
--   Your Wallet: 
+-   Your Wallet: $3.00
     
 
 ### Biweekly Payments
