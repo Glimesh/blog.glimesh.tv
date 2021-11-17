@@ -16,15 +16,15 @@ First up, those of you who have Streamloots enabled will have noticed the “Add
 
   
 
-![](https://lh3.googleusercontent.com/SoO03BT8wPg1m50Rjx-apx4Zn46q1MPu1nNo6JnGaTPsJCHQLFXABNYt_9WPxU5ff5z01CbJA2eyGffn9T2cs6VASyhHo1bh_Rbg7R_FWOxIlLb7Up7nTHMg4b414ldPRI23OSS6)
+![](https://i.imgur.com/OUevqvh.png)
 
 ### Donations
 
   
 
-![](https://lh4.googleusercontent.com/uE1AYgpMDtpMxhymrMdgDXKShrnOtvsFJucoyb1DRze8h4GP1pHrXSXHNkM9UDoattwkI3cRdAqEPoCVH5-3vZtFTEalscUp2wHZtK8YzjncrbFLShk_C5S9KERNfbYkL4F-_FQY)
+![](https://i.imgur.com/pynqG9J.png)
 
-![](https://lh6.googleusercontent.com/jjaeDGVWfoTL3wZ-PdRL45JsrT2Ws55_CQUqcqSGb1shxOHERvgalee7nqSi93PVULS66Z-E3ykhgpPUlQVotN_soOqziH6TJ8G5KghhlFoJWgAiNTpuz0yyDgAo08bxLN9uhmOA)
+![](https://i.imgur.com/zgL0t9R.png)
 
   
 
@@ -55,7 +55,7 @@ You can now turn on or off display of these options at any time allowing you to 
 
   
 
-![](https://lh6.googleusercontent.com/e1Z9_lIJcjZ0Hx8sDyX98nAoLmQEW2n_1NkmTj9m_xyZR5PDjRaprH8_15e_YesYg4tgUAaKrtDjCbwRyBW5CU3PSdeK6dYwHfsUpJ6K8S7J8TA8NbWR_xZaKuz0AQbW07LA2fcN)
+![](https://i.imgur.com/i4opBb1.png)
 
   
 
@@ -77,7 +77,7 @@ Here is how the breakdown now works:
 
   
 
-![](https://lh5.googleusercontent.com/fn7uPbpIZpEEYnyYqPobj1b_ZmrkHe639QxS_8D6D66TH6W8Ont77LftjiqyZRI3kzbdR1VKKkifS9qIQQjU0mLQWIqGflb5L8D9RbE96TSUeHiOr4Ty3b2nK1KKXqe8_Ud1_LIf)
+![](https://i.imgur.com/BJ68KSp.png)
 
 Glimesh Subscription: $5
 
