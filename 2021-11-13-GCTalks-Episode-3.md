@@ -1,6 +1,8 @@
+---
 title: "GCTalks Episode 3"
 date: 2021-11-17T08:00:00-04:00
 author: "Berri, Britsurugi, Chris & Paco1342"
+---
 
 ## GCTalks Episode 3 Recap
 
@@ -54,7 +56,7 @@ We had 4 charity streams over the month of September, which is suicide awareness
   
   
 
-**Upcoming events**: Our next upcoming event will be an Open Amateur Tournament featuring StarCraft 2, hosted by [HeelHarley](https://glimesh.tv/heelharley). This tournament is exclusive to Glimesh streamers and amateurs only (no pros or smurfs). You will need to have a Glimesh account, and locate HeelHarley on the platform! Winners who place in the top four will be receiving a cash-money prize up to $100!
+**Upcoming events**: Our next upcoming event will be an Open Amateur Tournament featuring StarCraft 2, hosted by [HeelHarley](https://glimesh.tv/heelharley). This tournament is exclusive to Glimesh streamers and amateurs only (no pros or smurfs). You will need to have a Glimesh account, and locate HeelHarley on the platform! Winners who place in the top four will be receiving a cash-money prize up to !
 
   
 
