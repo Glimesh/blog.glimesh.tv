@@ -1,5 +1,5 @@
 ---
-title: "GCTalks Episode 3"
+title: "Feature Update"
 date: 2021-11-17T08:00:00-04:00
 author: "Berri"
 ---
@@ -81,21 +81,21 @@ Here is how the breakdown now works:
 
 Glimesh Subscription: 
 
--   Platform Cut: $2 
+-   Platform Cut:  
     
-    -   Payment Processing: $2
+    -   Payment Processing: 
     
-    -   Payout Processing: $0.45
+    -   Payout Processing: 
     
-    -   Chargeback Protection: $0.02
+    -   Chargeback Protection: 
     
-    -   Servers & Bandwidth: $1.00
+    -   Servers & Bandwidth: 
     
-    -   Glimesh: $0.33
+    -   Glimesh: 
     
--   Streamer Cut: $3.00
+-   Streamer Cut: 
     
--   Your Wallet: $3.00
+-   Your Wallet: 
     
 
 ### Biweekly Payments
