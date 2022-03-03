@@ -33,6 +33,9 @@ summaryLength = 50
   name = "Support"
   url = "https://support.glimesh.tv"
 
+# [taxonomies]
+# category = "categories"
+
 # Theme variables
 #
 [params]
@@ -64,7 +67,7 @@ summaryLength = 50
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "The Glimesh blog"
+    about = "Learn about streaming, marketing, programming, and more on the Glimesh company blog!"
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
