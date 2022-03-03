@@ -15,16 +15,19 @@
     {{ if or (eq .Lang "ar") (eq .Lang "fa") }}
     {{ "<!-- RTL -->" | safeHTML }}
     {{ $styleRtl := resources.Get "css/style.rtl.css" | resources.Fingerprint }}
-    <link href="{{ $styleRtl.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }} integrity="{{ $styleRtl.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
+    <link href="{{ $styleRtl.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
+        integrity="{{ $styleRtl.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
     {{ else }}
     {{ "<!-- combined, minified CSS -->" | safeHTML }}
     {{ $style := resources.Get "css/style.css" | resources.Fingerprint }}
-    <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }} integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
+    <link href="{{ $style.Permalink }}" rel="stylesheet" {{ if not .Site.Params.disable_sri }}
+        integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" {{ end }}>
     {{ end }}
 
     {{ "<!-- minified Font Awesome for SVG icons -->" | safeHTML }}
     {{ $fontawesome := resources.Get "js/fontawesome.min.js" | resources.Fingerprint }}
-    <script defer src="{{ $fontawesome.Permalink }}" {{ if not .Site.Params.disable_sri }} integrity="{{ $fontawesome.Data.Integrity }}" crossorigin="anonymous" {{ end }}></script>
+    <script defer src="{{ $fontawesome.Permalink }}" {{ if not .Site.Params.disable_sri }}
+        integrity="{{ $fontawesome.Data.Integrity }}" crossorigin="anonymous" {{ end }}></script>
 
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
     {{ with .OutputFormats.Get "rss" -}}
@@ -43,7 +46,8 @@
     {{ block "masthead" . }}
     <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="/">
-            <img src="https://glimesh.tv/images/logos/logo-alpha.png" class="d-inline-block align-top" alt="Glimesh | Alpha" height="34">
+            <img src="https://glimesh.tv/images/logos/logo-alpha.png" class="d-inline-block align-top"
+                alt="Glimesh | Alpha" height="34">
         </a>
         <div class="collapse navbar-collapse" id="primaryNav">
             <ul class="navbar-nav mr-auto">
@@ -54,7 +58,8 @@
                 {{ range .Site.Menus.navbar }}
                 {{ $menuURL := .URL | absLangURL }}
                 <li class="nav-item">
-                    <a class="nav-link{{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                    <a class="nav-link{{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}"
+                        href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
                 </li>
                 {{ end }}
             </ul>
@@ -70,7 +75,7 @@
     {{ block "body" . }}
     <div class="container mt-4">
         <div class="row">
-            <div class="col-sm-8 blog-main">
+            <div class="col-lg-9 blog-main">
 
                 {{ block "main" . }}
                 <!-- The part of the page that begins to differ between templates -->
@@ -89,12 +94,18 @@
         <section class="footer-social pt-2 pb-2">
             <div class="container">
                 <div class="btn-group btn-block" role="group" aria-label="Glimesh Socials">
-                    <a href="https://twitter.com/Glimesh" class="btn btn-default"><i class="fab fa-twitter-square fa-3x"></i></a>
-                    <a href="https://discord.gg/Glimesh" class="btn btn-default"><i class="fab fa-discord fa-3x"></i></a>
-                    <a href="https://facebook.com/Glimesh" class="btn btn-default"><i class="fab fa-facebook-square fa-3x"></i></a>
-                    <a href="https://instagram.com/Glimesh" class="btn btn-default"><i class="fab fa-instagram-square fa-3x"></i></a>
-                    <a href="https://reddit.com/r/Glimesh" class="btn btn-default"><i class="fab fa-reddit-square fa-3x"></i></a>
-                    <a href="https://github.com/Glimesh" class="btn btn-default"><i class="fab fa-github-square fa-3x"></i></a>
+                    <a href="https://twitter.com/Glimesh" class="btn btn-default"><i
+                            class="fab fa-twitter-square fa-3x"></i></a>
+                    <a href="https://discord.gg/Glimesh" class="btn btn-default"><i
+                            class="fab fa-discord fa-3x"></i></a>
+                    <a href="https://facebook.com/Glimesh" class="btn btn-default"><i
+                            class="fab fa-facebook-square fa-3x"></i></a>
+                    <a href="https://instagram.com/Glimesh" class="btn btn-default"><i
+                            class="fab fa-instagram-square fa-3x"></i></a>
+                    <a href="https://reddit.com/r/Glimesh" class="btn btn-default"><i
+                            class="fab fa-reddit-square fa-3x"></i></a>
+                    <a href="https://github.com/Glimesh" class="btn btn-default"><i
+                            class="fab fa-github-square fa-3x"></i></a>
                 </div>
             </div>
         </section>
