@@ -80,9 +80,17 @@ Here at Glimesh the only goals that matter are your own personal ones. We don’
 
 Subscriptions are open to everyone who is on our payment provider Stripe’s list of supported countries (you can check by visiting our support site here: [https://support.glimesh.tv/en-us/34-subscriptions-payments/50-setting-up-glimesh-payouts-sub-button](https://support.glimesh.tv/en-us/34-subscriptions-payments/50-setting-up-glimesh-payouts-sub-button)). Simply log into your account and head on over to the payments page to get started. You don’t need to have any proven follower or viewer count; you can set it up from day one!
 
+**Donations**
+
+Setting your account up for Subscriptions also allows you to receive donations, directly through Glimesh. Just like with Subscriptions you do not need to meet any follower or viewer count requirements, it is automatically added as an option to your support modal when you sign up for Subscriptions!
+
 **Own Your Content**
 
 You work hard to make your streams and we believe you should be able to show that in any way you want, whenever you want. This is why at Glimesh 100% of your content is yours to do with as you wish. There is no time lock on how long you need to wait before you can share your content so feel free to do with it what you want, it’s your hard work afterall.
+
+**Your Channel, Your Choice**
+
+Our goal is to give each creator a set of tools to use in whatever way they see fit. To help make your channel exactly what you want it to be, we provide you with a huge amount of choices and options. Moderator permissions can be set individually. Subscriptions and donations can be toggled on/off individually. You can opt-in to be featured on the front page.You can choose to display pronouns both on your channel and on your profile. You have an array of safety settings for who is allowed to chat, if they can post links, if those links are clickable, and more. There are many more options to explore, and more are being added as we grow. When features are added, they are always opt-in so you never login to find something unexpected.
 
 **Discoverability**
 
