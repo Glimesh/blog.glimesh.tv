@@ -90,7 +90,7 @@ You work hard to make your streams and we believe you should be able to show tha
 
 **Your Channel, Your Choice**
 
-Our goal is to give each creator a set of tools to use in whatever way they see fit. To help make your channel exactly what you want it to be, we provide you with a huge amount of choices and options. Moderator permissions can be set individually. Subscriptions and donations can be toggled on/off individually. You can opt-in to be featured on the front page.You can choose to display pronouns both on your channel and on your profile. You have an array of safety settings for who is allowed to chat, if they can post links, if those links are clickable, and more. There are many more options to explore, and more are being added as we grow. When features are added, they are always opt-in so you never login to find something unexpected.
+Our goal is to give each creator a set of tools to use in whatever way they see fit. To help make your channel exactly what you want it to be, we provide you with a huge amount of choices and options. Moderator permissions can be set individually. Subscriptions and donations can be toggled on/off individually. You can opt-in to be featured on the front page. You can choose to display pronouns both on your channel and on your profile. You have an array of safety settings for who is allowed to chat, if they can post links, if those links are clickable, and more. There are many more options to explore, and more are being added as we grow. When features are added, they are always opt-in so you never login to find something unexpected.
 
 **Discoverability**
 
